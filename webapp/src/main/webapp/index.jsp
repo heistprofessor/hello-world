@@ -10,3 +10,10 @@
 
 <h8> Eight change. Now pre requisite tasks for actions are getting committed</h8>
 <h9> Okay now action are effictively applied</h9>
+
+<h10>
+	eksctl create cluster --name kuber \
+	--region us-east-1 \
+	--node-type t2.small</h10>
+
+	http://a79c42b237c2f4667a5563892c7c5ed4-151720282.us-east-1.elb.amazonaws.com
